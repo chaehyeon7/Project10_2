@@ -8,6 +8,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.Toast;
+// Change ViewFlipper
 
 public class MainActivity extends AppCompatActivity {
     String[] imgNames = {"MEAT", "CAKE", "SPAGHETTI", "MEATBALL", "PENCAKE", "BREAD", "SALMON", "SALAD", "HAMBURGER"};
